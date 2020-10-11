@@ -1,4 +1,4 @@
 github "Alamofire/Alamofire" "5.2.2"
 github "ReactiveX/RxSwift" "5.1.1"
-github "sandsn123/AlamofireExecutor" "65b46b4968ffbb210b04eedd43f9170dfe78e8d7"
+github "sandsn123/AlamofireExecutor" "6085f7f0ce04dc503f6afdfd09debfc732eddeff"
 github "sandsn123/LSAPI" "c4331ab49ae51d00192a5199c818c6f4a135f4a9"
